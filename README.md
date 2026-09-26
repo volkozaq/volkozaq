@@ -1,5 +1,22 @@
 ## Python-разработчик в поисках работы
 
+Мои учебные проекты:
+
+Дипломная работа - Backend-приложение для автоматизации закупок
+https://github.com/volkozaq/python-final-diplom
+
+Изучение Django
+https://github.com/volkozaq/Django-homework
+
+Курсовая работа "ТГ-чат-бот "Обучалка английскому языку""
+https://github.com/volkozaq/sql-final
+
+Работа с нейросетями, использование Celery и Docker Compose 
+https://github.com/volkozaq/celery
+
+Создание REST API на FastApi
+https://github.com/volkozaq/fast-1
+https://github.com/volkozaq/fast-2
 <!--
 **volkozaq/volkozaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
