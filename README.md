@@ -5,9 +5,6 @@
 Дипломная работа - Backend-приложение для автоматизации закупок
 https://github.com/volkozaq/python-final-diplom
 
-Изучение Django
-https://github.com/volkozaq/Django-homework
-
 Курсовая работа "ТГ-чат-бот "Обучалка английскому языку""
 https://github.com/volkozaq/sql-final
 
