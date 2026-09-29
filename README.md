@@ -1,25 +1,27 @@
-## Овакимян Наири | Python-разработчик
+# Овакимян Наири | Python-разработчик
 
-Мои учебные проекты:
+Python-разработчик с высшим профильным образованием и бэкграундом в веб-разработке.
 
-Дипломная работа - Backend-приложение для автоматизации закупок
+## Мои учебные проекты:
+
+### Дипломная работа - Backend-приложение для автоматизации закупок
 https://github.com/volkozaq/python-final-diplom
 
-Курсовая работа "ТГ-чат-бот "Обучалка английскому языку""
+### Курсовая работа "ТГ-чат-бот "Обучалка английскому языку""
 https://github.com/volkozaq/sql-final
 
-Работа с нейросетями, использование Celery и Docker Compose 
+### Работа с нейросетями, использование Celery и Docker Compose 
 https://github.com/volkozaq/celery
 
-Создание REST API на FastApi
+### Создание REST API на FastApi
 https://github.com/volkozaq/fast-1
 https://github.com/volkozaq/fast-2
 
-Асинхронность в Python:
+### Асинхронность в Python:
 https://github.com/volkozaq/asyncio
 https://github.com/volkozaq/aiohttp
 
-CI-CD:
+### CI-CD:
 https://github.com/volkozaq/ci-cd
 <!--
 **volkozaq/volkozaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
