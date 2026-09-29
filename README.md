@@ -1,4 +1,4 @@
-## Python-разработчик в поисках работы
+## Овакимян Наири | Python-разработчик
 
 Мои учебные проекты:
 
@@ -14,6 +14,13 @@ https://github.com/volkozaq/celery
 Создание REST API на FastApi
 https://github.com/volkozaq/fast-1
 https://github.com/volkozaq/fast-2
+
+Асинхронность в Python:
+https://github.com/volkozaq/asyncio
+https://github.com/volkozaq/aiohttp
+
+CI-CD:
+https://github.com/volkozaq/ci-cd
 <!--
 **volkozaq/volkozaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
